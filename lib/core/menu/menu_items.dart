@@ -16,8 +16,8 @@ class MenuItem {
 
 const appMenuItems = <MenuItem>[
   MenuItem(
-    title: 'Test',
-    subTitle: 'Test',
+    title: 'Container',
+    subTitle: 'Test de Container',
     link: '/test',
     icon: Icons.ios_share_rounded,
   )
